@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="JavaTeamProject" />
+        <module name="KBU_JavaTeamProject" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="JavaTeamProject" target="11.0.12" />
+      <module name="KBU_JavaTeamProject" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

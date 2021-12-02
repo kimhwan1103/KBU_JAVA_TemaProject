@@ -1,0 +1,16 @@
+{
+  "고블린킹": [{
+      "HP": "500",
+      "DefensivePower": "250",
+      "XP": "130",
+      "damage": "60",
+      "speech": "나중에 추가",
+      "skill": [{
+        "0" : [{
+          "SkillName" : "테스트스킬",
+          "damage": "200",
+          "SkillSpeech": "스킬 대사 나중에 추가 바람"
+        }]
+      }]
+    }]
+}
