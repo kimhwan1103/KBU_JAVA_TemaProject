@@ -77,9 +77,15 @@ class AbstractMonsterFactoryTest {
             MonsterData = LoadJSon.LoadJson(dir, "고블린킹", "MonsterData");
             Set<String> keys = MonsterData.keySet();
 
+            /*
             for(String key: keys){
                 System.out.println("몬스터 세팅값" + MonsterData.get(key));
             }
+
+             */
+
+            System.out.println(MonsterData.entrySet());
+
         }else{
             System.out.println("null!");
         }
